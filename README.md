@@ -1,7 +1,7 @@
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Titillium+Web&weight=500&size=25&pause=1000&color=F79F4C&width=435&lines=Hey+there%2C+I'm+Corey" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate Linux enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coreypagan" alt="coreypagan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CoreyPagan" alt="CoreyPagan" /></a> </p>
 
 - 🔭 I’m currently working on **bash scripts to make system administration easier.**
 
@@ -18,6 +18,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coreypagan&show_icons=true&locale=en&layout=compact" alt="coreypagan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoreyPagan&show_icons=true&locale=en&layout=compact" alt="CoreyPagan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coreypagan&" alt="coreypagan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CoreyPagan&" alt="coreypagan" /></p>
