@@ -7,12 +7,13 @@
 
 - 🏫 I’m currently studying **Cloud Engineering with Scalework**
 
-- 📊 Stats
+<h3>📊 Stats
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoreyPagan&theme=gruvbox)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CoreyPagan&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoreyPagan&theme=gruvbox)
 
+</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/coreypagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="coreypagan" height="30" width="40" /></a>
