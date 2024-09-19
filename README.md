@@ -1,13 +1,17 @@
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Titillium+Web&weight=500&size=25&pause=1000&color=F79F4C&width=435&lines=Hey+there%2C+I'm+Corey" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate Linux enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CoreyPagan" alt="CoreyPagan" /></a> </p>
-
 - 🔭 I’m currently working on **bash scripts to make system administration easier.**
 
 - 🌱 I’m currently learning **how to code properly with bash, python and javascript.**
 
 - 🏫 I’m currently studying **Cloud Engineering with Scalework**
+
+- 📊 Stats
+
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoreyPagan&theme=gruvbox)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CoreyPagan&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoreyPagan&theme=gruvbox)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
